@@ -1,0 +1,15 @@
+*sprint2-400604-f9d2e1afb6a9.json
+env/
+*.o
+*.d
+*.run
+*__pycache__*
+*.csv
+testing/
+*.zip
+results/
+results*
+data/
+pyrightconfig.json
+data/
+config.yaml
